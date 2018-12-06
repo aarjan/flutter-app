@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Dec 04 21:56:41 NPT 2018
+#Thu Dec 06 21:03:44 NPT 2018
 4.path=flutter_assets/isolate_snapshot_data
 8.set=ASSET
 6.path=flutter_assets/kernel_blob.bin
