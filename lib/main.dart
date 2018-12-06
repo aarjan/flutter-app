@@ -3,7 +3,7 @@ import 'package:flutter_app/random_words.dart';
 import 'package:flutter_app/widgets/animation_widget.dart';
 import 'package:flutter_app/widgets/stateful_widget.dart';
 
-void main() => runApp(FadeApp());
+void main() => runApp(MyApp());
 
 
 class MyApp extends StatelessWidget {
