@@ -11,7 +11,6 @@
 .svn/
 
 # IntelliJ related
-*.iml
 *.ipr
 *.iws
 .idea/
@@ -46,13 +45,14 @@ unlinked.ds
 unlinked_spec.ds
 
 # Android related
-**/android/**/gradle-wrapper.jar
-**/android/.gradle
-**/android/captures/
-**/android/gradlew
-**/android/gradlew.bat
-**/android/local.properties
-**/android/**/GeneratedPluginRegistrant.java
+android/
+# **/android/**/gradle-wrapper.jar
+# **/android/.gradle
+# **/android/captures/
+# **/android/gradlew
+# **/android/gradlew.bat
+# **/android/local.properties
+# **/android/**/GeneratedPluginRegistrant.java
 
 # iOS/XCode related
 **/ios/**/*.mode1v3
